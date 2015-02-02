@@ -2,7 +2,7 @@
 title: Daddy Darren's Blog
 email: darren.borland@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Daddy Darren's Blog.  Photography, football and fatherhood....s
+  Daddy Darren's Blog.  Photography, football and fatherhood...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://daddydarren.github.io" # the base hostname & protocol for your site
 twitter_username: darrenborland
